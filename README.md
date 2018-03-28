@@ -2,7 +2,7 @@
 
 # Project Summary
 
-In this project we are building a front end for an employee management system.  It should run on any modern browser (post I.E. 8 and similar), and be fully functional, and reasonably styled.  Chrome will be our recommended browser.
+In this project we are building a front end for an employee management system.  It should run on any modern browser (post I.E. 8 and similar), and be fully functional, and reasonably styled.  Chrome will be our recommended browser.  Access the app [here](build/index.html)
 
 ## Current Desired Functionality
 
