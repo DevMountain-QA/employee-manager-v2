@@ -1,8 +1,8 @@
-<img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
+<img src="https://s3.amazonaws.com/devmountain/www/img/logowhiteblue.png" width="250" align="right">
 
 # Project Summary
 
-In this project we are building a front end for an employee management system.  It should run on any modern browser (post I.E. 8 and similar), and be fully functional, and reasonably styled.  Chrome will be our recommended browser.  Access the app [here](build/index.html)
+In this project we are building a front end for an employee management system.  It should run on any modern browser (post I.E. 8 and similar), and be fully functional, and reasonably styled.  Chrome will be our recommended browser.  Access the app [here](build/index.html).
 
 ## Current Desired Functionality
 
@@ -81,5 +81,5 @@ If you see a problem or a typo, please fork, make the necessary changes, and cre
 © DevMountain LLC, 2017. Unauthorized use and/or duplication of this material without express and written permission from DevMountain, LLC is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to DevMountain with appropriate and specific direction to the original content.
 
 <p align="center">
-<img src="https://devmounta.in/img/logowhiteblue.png" width="250">
+<img src="https://s3.amazonaws.com/devmountain/www/img/logowhiteblue.png" width="250" align="right">
 </p>
