@@ -60,9 +60,10 @@ To be aware of, but not currently implementedgit
   * Basic API documentation is as follows:
     * GET: will return an array of employees
     * POST: will add an employee if the Body of the request contains a JSON with the properties id, name, phone, email, and title
-    * PUT: will edit an existing employee when sent to `api/employees/{employeeId}` with properties of name, phone, email, and title
+    * PUT: will edit an existing employee when sent to `api/employees/{employeeId}` with parameters of name, phone, email, and title
       * Note, ID is not editable
     * DELETE: will delete an existing employee when the request is sent to `api/employees/{employeeId}`
+    * Any request will return an array of the current employees in the database.
 * <del>An Add Employee function will be implemented.</del>
 * <del>A search function to filter the employee list will be available, based on Job Title, Name, and/or ID</del>
 * <del>An Email Address field will be added for each employee file</del>
